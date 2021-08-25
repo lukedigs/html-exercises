@@ -1,4 +1,4 @@
-# HTML Drill #1 - Favorite Things!
+# HTML Drill #2 - Favorite Things!
 
 In this exercise, write a complete HTML page using elements discussed in the lecture, as well as from the readings.
 
