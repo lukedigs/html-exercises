@@ -8,13 +8,18 @@ Don't forget the basics: `doctype`, `html`, `head`, and `body`.
 
 Practice structuring your page by using the following elements:
 
-- `header`, `section`, `aside`, `footer`
+- `header`, `article`, `section`, `aside`, `footer`
 - Meaningful heading tags and levels (& headings too!)
 - Common content block elements: `p` and lists, such as `ul` or `ol` with nested list items (`li`)
 - Inline elements, such as `a`, `strong`, and `em`, where you deem appropriate.
 - Any HTML element attributes for particular elements, e.g., `a` elements should at least use the `href` attribute. Or, `meta` elements in the head have multiple attributes to practice.
 
-Finally, be sure to pay attention to the devilish details: opening and closing tags and representing what level an element is in the tree hierarchy. Recall how you will represent hierarchy through your indentation scheme, and how we all set our code editors to use a *2-space indentation* rule. Here's a basic example below to help you remember:
+Finally, be sure to pay attention to the devilish details: 
+
+- Opening and closing tags, and 
+- Representing what level an element is in the tree hierarchy. 
+
+Recall how you will represent hierarchy through your indentation scheme, and how we all set our code editors to use a *2-space indentation* rule. Here's a basic example below to help you remember:
 
 ```
 <!doctype html>
